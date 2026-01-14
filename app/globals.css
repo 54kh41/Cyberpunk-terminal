@@ -1,0 +1,7 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: #00ff99;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, monospace;
+}
